@@ -4,4 +4,4 @@ This is a sample project for [VitoWiFi](https://github.com/bertmelis/VitoWiFi) a
 
 For more info, please visit the libraries repo's.
 
-![Screenshot](https://github.com/bertmelis/esp-heating/blob/master/screenshot.png)
+![Screenshot](https://github.com/bertmelis/esp8266-heating/blob/master/screenshot.png)
